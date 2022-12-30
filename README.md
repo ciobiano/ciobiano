@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/bg_ralphy" target="blank"><img src="https://img.shields.io/twitter/follow/bg_ralphy?logo=twitter&style=for-the-badge" alt="bg_ralphy" /></a> </p>
 
-- 🔭 I’m currently working on **Personal Chatbot with Chat-GPT**
+- 🔭 I’m currently working on **something cooler than you think**
 
 - 🌱 I’m currently learning **Pentesting and advanced security**
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react, Javascript, HTML, others**
 
-- 📫 How to reach me **RafaelObiano@yahoo.com**
+- 📫 How to reach me **rafaelobiano@yahoo.com**
 
 - ⚡ Fun fact **I am a tech savy and love to learn new technologies**
 
