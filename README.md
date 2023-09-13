@@ -4,6 +4,7 @@
 Hopefully You're one of them 😉
 </h4>
 
+
 <p align="left"> <a href="https://twitter.com/bg_ralphy" target="blank"><img src="https://img.shields.io/twitter/follow/bg_ralphy?logo=twitter&style=for-the-badge" alt="bg_ralphy" /></a> </p>
 
 - 🛠 **The Journey So Far**: My story is a blend of curiosity and code. I started as a front-end enthusiast, charmed by the immediate visual feedback. But soon, I realized the magic lies in connecting the dots—front to back. Now, I create web applications that are not just visually appealing but also robust and scalable.
