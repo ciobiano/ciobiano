@@ -1,5 +1,5 @@
 [![](https://github.com/ciobiano/ciobiano/blob/main/profile.gif)]([https://bgralph.netlify.app/)<!-- If you want the template for my gif, email me! -->
-<h5 align="center">👋 Greetings from Nigeria! I'm **Chukwuemeka Obiano**, but you can call me **Ralph**.<br/>
+<h5 align="start">👋 Greetings from Nigeria! I'm <strong>Chukwuemeka Obiano</strong>, but you can call me <strong>Ralph<strong/>.<br/>
   Picture this: a young boy in Nigeria, captivated by the blinking cursor on a black screen, typing his first lines of code. Fast forward to today, and that boy has evolved into a full-stack developer, crafting digital experiences that users love.
 Hopefully You're one of them 😉
 </h5>
@@ -7,16 +7,23 @@ Hopefully You're one of them 😉
 <p align="left"> <a href="https://twitter.com/bg_ralphy" target="blank"><img src="https://img.shields.io/twitter/follow/bg_ralphy?logo=twitter&style=for-the-badge" alt="bg_ralphy" /></a> </p>
 
 - 🛠 **The Journey So Far**: My story is a blend of curiosity and code. I started as a front-end enthusiast, charmed by the immediate visual feedback. But soon, I realized the magic lies in connecting the dots—front to back. Now, I create web applications that are not just visually appealing but also robust and scalable.
+  
 
 - 🌱 **The Learning Never Stops**: In this industry, the 'End' key is a myth. I'm currently exploring advanced security measures and the latest front-end frameworks. Why? Because the day you stop learning is the day you become obsolete.
+  
 
--🔗 Let's Write the Next Chapter: Whether you're an entrepreneur with a dream or a fellow developer, I'm open to collaborations, discussions, and coffee chats. Reach out and let's make something memorable.
+-  🔗 Let's Write the Next Chapter: Whether you're an entrepreneur with a dream or a fellow developer, I'm open to collaborations, discussions, and coffee chats. Reach out and let's make something memorable.
+
 
 - 🌐 Portfolio: [bgralph.netlify.app](bgralph.netlify.app)
 
+
 - 📫 Email: **rafaelobiano@yahoo.com**
 
+  
+
 - ⚡  **Fun Fact**: I'm not just a tech geek; I'm a tech storyteller. I love dissecting the latest trends and envisioning how they'll shape our digital future.
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
