@@ -6,8 +6,7 @@
  
 </h4>
 <h4> 
-  Picture this: a young boy in Nigeria, captivated by the blinking cursor on a black screen, typing his first lines of code. Fast forward to today, and that boy has evolved into a full-stack developer, crafting digital experiences that users love.
-Hopefully You're one of them 😉
+ Imagine a young boy in Nigeria, captivated not by games or toys, but by a blinking cursor on a dusty computer screen. Fast forward: that boy is now a full-stack developer, turning digital canvases into user delights. If you've ever marveled at a seamless app or website, chances are, you've crossed paths with his artistry.
 </h4>
 
 <p align="left"> <a href="https://twitter.com/bg_ralphy" target="blank"><img src="https://img.shields.io/twitter/follow/bg_ralphy?logo=twitter&style=for-the-badge" alt="bg_ralphy" /></a> </p>
