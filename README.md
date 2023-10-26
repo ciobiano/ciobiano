@@ -6,12 +6,12 @@
  
 </h4>
 <h4> 
- Imagine a young boy in Nigeria, captivated not by games or toys, but by a blinking cursor on a dusty computer screen. Fast forward: that boy is now a full-stack developer, turning digital canvases into user delights. If you've ever marveled at a seamless app or website, chances are, you've crossed paths with his artistry.
+ Curiosity and code combine in my tale. I was first drawn to front-end development because of the instantaneous visual feedback. However, I quickly discovered that the secret is in joining the dots—from front to back. Now, in addition to being aesthetically pleasing, my web apps are scalable and reliable.
 </h4>
 
 <p align="left"> <a href="https://twitter.com/bg_ralphy" target="blank"><img src="https://img.shields.io/twitter/follow/bg_ralphy?logo=twitter&style=for-the-badge" alt="bg_ralphy" /></a> </p>
 
-- 🛠 **The Journey So Far**: My story is a blend of curiosity and code. I started as a front-end enthusiast, charmed by the immediate visual feedback. But soon, I realized the magic lies in connecting the dots—front to back. Now, I create web applications that are not just visually appealing but also robust and scalable.
+- 🛠 **The Journey So Far**: Curiosity and code combine in my tale. I was first drawn to front-end development because of the instantaneous visual feedback. However, I quickly discovered that the secret is in joining the dots—from front to back. Now, in addition to being aesthetically pleasing, my web apps are scalable and reliable.
   
 
 - 🌱 **The Learning Never Stops**: In this industry, the 'End' key is a myth. I'm currently exploring advanced security measures and the latest front-end frameworks. Why? Because the day you stop learning is the day you become obsolete.
