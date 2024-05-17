@@ -1,9 +1,13 @@
 
 
-<h4 align="start">
+<h2 align="start">
 Ralph! 👋
  
-</h4>
+</h2>
+
+<h3 font-weight="12px">
+ Software Engineer (WD)
+</h3>
 <h4> 
  My journey began with a passion for front-end development, driven by the immediate visual results. Over time, I embraced the importance of integrating back-end technologies to build scalable and reliable web applications. Today, I specialize in creating seamless, full-stack solutions
 </h4>
