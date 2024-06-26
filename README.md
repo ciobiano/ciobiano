@@ -21,7 +21,7 @@ I am a full-stack dev, always willing  to build something exciting
 
 **Front-end:** Next.js, React, Tailwind CSS
 
-**Server:** Node.js, Prisma, MongoDB
+**Server:** Node.js, Express, 
 
 **Languages:** JavaScript, TypeScript, Python
 
