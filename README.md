@@ -4,7 +4,7 @@
   I build production-ready web applications and developer tooling, with a focus on mobile and web-app product.
 </p>
 
-[![wakatime](https://wakatime.com/badge/user/cf3fbecc-01fb-470e-a725-8c395275b4df.svg)](https://wakatime.com/@cf3fbecc-01fb-470e-a725-8c395275b4df)
+
 
 ---
 
